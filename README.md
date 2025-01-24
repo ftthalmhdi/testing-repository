@@ -50,3 +50,21 @@ This project is licensed under the MIT License.
 - Deployment of machine learning models
 
 u i i a i u
+## Acknowledgements
+
+We would like to thank the following resources and communities for their support and contributions:
+
+- [Python Software Foundation](https://www.python.org/psf/)
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Stack Overflow Community](https://stackoverflow.com/)
+
+## Contact
+
+If you have any questions, suggestions, or feedback, please feel free to reach out:
+
+- Email: yourname@example.com
+- GitHub: [yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
